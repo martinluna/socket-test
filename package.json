@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parque-del-recuerdo-google-maps-integration": "^1.0.8"
+    "parque-del-recuerdo-google-maps-integration": "^1.0.9"
   }
 }
